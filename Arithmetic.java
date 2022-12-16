@@ -19,9 +19,10 @@ public class Arithmetic {
 			e.printStackTrace();
 		}
 		int mul=a*b;
-		System.out.println(mul);
+		System.out.println(mul+"multipication value");
 		System.out.println(add);
 		System.out.println(sub);
 	}
+
 
 }
